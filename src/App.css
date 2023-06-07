@@ -10,8 +10,8 @@
       display: flex;
 
       .select-colors-container-cell {
-        width: 70px;
-        height: 50px;
+        width: 3rem;
+        height: 2rem;
         cursor: pointer;
       }
     }
@@ -26,8 +26,8 @@
       flex-direction: row;
 
       .fill-grid-cell {
-        width: 70px;
-        height: 40px;
+        width: 3rem;
+        height: 2rem;
         border: 1px solid black;
         cursor: pointer;
       }
